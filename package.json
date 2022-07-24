@@ -1,0 +1,19 @@
+{
+  "name": "my-generate-readme",
+  "version": "1.0.1",
+  "description": "A package that can generate a template of the README.md file",
+  "main": "./bin/index.js",
+  "bin": {
+    "my-generate-readme": "bin/index.js"
+  },
+  "keywords": [
+    "readme",
+    "generator",
+    "template"
+  ],
+  "author": "Arthur Lage",
+  "license": "ISC",
+  "dependencies": {
+    "npm-readme-generator": "^1.0.0"
+  }
+}
