@@ -1,6 +1,6 @@
 {
   "name": "my-generate-readme",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A package that can generate a template of the README.md file",
   "main": "./bin/index.js",
   "bin": {
